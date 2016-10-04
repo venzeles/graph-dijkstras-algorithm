@@ -6,7 +6,8 @@ $git clone https://github.com/venzeles/graph-dijkstras-algorithm
 Для установки зависимостей:
 npm install
 
-Запускаем:
+Запускаем: node index.js
+
 http://localhost:8080/
 
 В адресе сразу указываем точку А и точку B: http://localhost:8080/a/b
