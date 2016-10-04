@@ -1,6 +1,6 @@
 'use sctrict';
 
-const path = require('path');
+const mypath = require('path');
 
 module.exports = {
     server: {
@@ -8,7 +8,7 @@ module.exports = {
     },
     root: process.cwd(),
     pug: {
-        basedir: path.join(process.cwd(), 'templates'),
+        basedir: mypath.join(process.cwd(), 'templates'),
         cache: true,
         pretty: true
     }
