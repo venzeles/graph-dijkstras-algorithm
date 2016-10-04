@@ -11,4 +11,4 @@ http://localhost:8080/
 
 В адресе сразу указываем точку А и точку B: http://localhost:8080/a/d
 
-Изображение графа: graph.jpeg
+Изображение графа: graph.jpg
